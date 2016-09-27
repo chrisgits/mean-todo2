@@ -12,5 +12,12 @@
     "angular"
   ],
   "author": "C Mannel",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgits/mean-todo2.git"
+  },
 }
