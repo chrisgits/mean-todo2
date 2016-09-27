@@ -1,0 +1,16 @@
+{
+  "name": "mean-todo2",
+  "version": "1.0.0",
+  "description": "mean todo test app",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mean",
+    "js",
+    "angular"
+  ],
+  "author": "C Mannel",
+  "license": "ISC"
+}
