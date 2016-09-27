@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisgits/mean-todo2.git"
+  },
   "keywords": [
     "mean",
     "js",
@@ -14,10 +18,7 @@
   "author": "C Mannel",
   "license": "ISC",
   "dependencies": {
+    "angular": "^1.5.8",
     "express": "4.14.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/chrisgits/mean-todo2.git"
-  },
+  }
 }
